@@ -1,11 +1,11 @@
 <!-- APRESENTAÇÃO -->
 <div align="center">
-<h1>Olá, sou o Hiago! <img src="https://media.tenor.com/tkkcqnsETXYAAAAi/man-raising-hand-joypixels.gif" align="center" width="37"/></h1>
+<h1>Olá, sou o Hiago! <img src="https://media.tenor.com/tkkcqnsETXYAAAAi/man-raising-hand-joypixels.gif" align="center" width="36"/></h1>
 </div>
 
 <!-- GIF PRINCIPAL -->
 <div align="left" border-radius="10px">
-<img src= "https://i.pinimg.com/originals/29/5d/ba/295dba78f8e4148215611aab4e03f93a.gif" alt="gif" width="260"/>
+<img src= "https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif" alt="gif" width="260"/>
 </div>
 
 <!-- STATUS DO PERFIL-->
