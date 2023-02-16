@@ -4,8 +4,8 @@
 </div>
 
 <!-- GIF PRINCIPAL -->
-<div align="left" border-radius="10px">
-<img src= "https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif" alt="gif" width="260"/>
+<div align="center" border-radius=10px >
+<img src= "https://i.pinimg.com/originals/d5/75/c3/d575c3c0447f05a9f1a4b9e578727be7.gif" alt="gif" width="72%"/>
 </div>
 
 <!-- STATUS DO PERFIL-->
