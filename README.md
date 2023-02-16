@@ -1,6 +1,6 @@
 <h1> Olá! Me chamo Hiago. </h1>
 
-<div>
+<div align="center">
   <a href="https://github.com/brazoo">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=brazoo&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brazoo&layout=compact&langs_count=7&theme=react" />
@@ -17,6 +17,7 @@
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
   <br>
+<div align="center">  
   <a href="https://www.instagram.com/hiago.bernard/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/hiago-b-230706266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
