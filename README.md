@@ -1,7 +1,9 @@
 <div>
 <h1>Olá, me chamo Hiago! :wave:</h1>
 </div>
-
+<div align="center" border-radius="10%">
+<img src= "https://media.tenor.com/wF5RiCnfj34AAAAC/work-computer.gif" alt="gif"/>
+</div> <br>
 <div align="center">
   <a href="https://github.com/brazoo"> <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=brazoo&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/> <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brazoo&layout=compact&langs_count=7&theme=aura"/>
 </div>
