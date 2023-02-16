@@ -1,8 +1,7 @@
 # Olá, me chamo Hiago! Bem vindo(a) ao meu perfil do GitHub 👋
 
 <div align="center">
-  <a href="https://github.com/brazoo">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=brazoo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brazoo&layout=compact&langs_count=7&theme=dracula" />
+  <a href="https://github.com/brazoo"> <img height="175em" align="center" src="https://github-readme-stats.vercel.app/api?username=brazoo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img height="175em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brazoo&layout=compact&langs_count=7&theme=dracula" />
 </div>
 
 
