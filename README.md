@@ -1,5 +1,5 @@
 <div>
-<h1>Olá, me chamo Hiago! :wave:</h1>
+<h1>Olá, me chamo Hiago! <img src="https://media.tenor.com/tkkcqnsETXYAAAAi/man-raising-hand-joypixels.gif" width="37"/></h1>
 </div>
 <div align="center" border-radius="10%">
 <img src= "https://media.tenor.com/wF5RiCnfj34AAAAC/work-computer.gif" alt="gif"/>
