@@ -1,5 +1,4 @@
-# Bem vindo ao meu GitHub 👋
-# Me chamo Hiago! 
+# Olá, me chamo Hiago! Bem vindo(a) ao meu perfil do GitHub 👋
 
 <div>
   <a href="https://github.com/brazoo">
