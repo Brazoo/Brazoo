@@ -15,14 +15,14 @@
 </div>
 	
 <!-- FERRAMENTAS APRENDIDAS -->
-### Ferramentas:
+ <b><i><h3>Ferramentas:</h3></i></b>
 
   <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/>                                                               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" />                                                                   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" />                                                                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/>                                                       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="35"/>
   </div>
   
 <!-- DIRECIONADOS -->
-### Contatos:
+<b><i><h3>Contatos:</h3></i></b>
   
   <a href="https://instagram.com/hiago.bernard" target="_blank">                                                                                                              <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:contato@seu-usuário-aqui">                                                                                                                                 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
