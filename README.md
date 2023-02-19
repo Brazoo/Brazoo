@@ -12,12 +12,12 @@
 </div><br>
 
 <!-- STATUS DO PERFIL-->
-<div align="center">
-<a href="https://github.com/brazoo">																														<img height="160em" src="https://github-readme-stats.vercel.app/api?username=brazoo&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brazoo&layout=compact&langs_count=7&theme=aura" />
+<div style="display: inlime_block" align="center">
+<a href="https://github.com/brazoo"><img height="160em" src="https://github-readme-stats.vercel.app/api?username=brazoo&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brazoo&layout=compact&langs_count=7&theme=aura" />
 </div><br>
 
 <!-- DIRECIONADOS -->
-<div align="center">
+<div>
 <h3>Minhas redes:</h3>
 	<a target="_blank" href="hiago.bernardo.contato@gmail.com">
 	 <img target="_blank" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -25,7 +25,7 @@
 		<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 	<a target="_blank" href="https://instagram.com/hiago.bernard">
 		<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-	
+</div>
 <!-- FERRAMENTAS APRENDIDAS -->
 <div>
 <h3>Ferramentas e Tecnologias:</h3>
