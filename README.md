@@ -12,8 +12,10 @@
 </div><br>
 
 <!-- STATUS DO PERFIL-->
-<div style="display: inlime_block" align="center">
-<a href="https://github.com/brazoo"><img height="160em" src="https://github-readme-stats.vercel.app/api?username=brazoo&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brazoo&layout=compact&langs_count=7&theme=aura" />
+<div style="padding: 23px" align="center">
+<a href="https://github.com/brazoo">
+	<img height="160em" src="https://github-readme-stats.vercel.app/api?username=brazoo&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+	     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brazoo&layout=compact&langs_count=7&theme=aura"/>
 </div><br>
 
 <!-- DIRECIONADOS -->
