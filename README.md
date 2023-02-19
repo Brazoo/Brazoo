@@ -1,6 +1,6 @@
 <!-- APRESENTAÇÃO -->
 <div>
-	<h1>Hi, devs!
+	<h1>Hi, devs! I'm Hiago
 		<img alt="waving hand gif" width="36" height="36" src="https://media.tenor.com/tkkcqnsETXYAAAAi/man-raising-hand-joypixels.gif"/>
 	</h1>
 </div>
@@ -8,7 +8,7 @@
 <!-- GIF PRINCIPAL -->
 
 <div align="center">
-<img alt="Gif-man-computer" width="82%" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263"/><br>
+<img alt="Gif-man-computer" width="95%" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263"/><br>
 </div><br>
 
 <!-- STATUS DO PERFIL-->
