@@ -20,7 +20,7 @@
 
 <!-- DIRECIONADOS -->
 <div>
-<h3>Minhas redes:</h3>
+<h3>MINHAS REDES:</h3>
 	<a target="_blank" href="hiago.bernardo.contato@gmail.com">
 	 <img target="_blank" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 	<a target="_blank" href="https://www.linkedin.com/in//hiago-b-230706266/">
@@ -30,7 +30,7 @@
 </div>
 <!-- FERRAMENTAS APRENDIDAS -->
 <div>
-<h3>Ferramentas e Tecnologias:</h3>
+<b><h3>FERRAMENTAS:</h3></b>
 	<img alt="Python" width="35" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 	<img alt="HTML" width="35" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 	<img alt="CSS" width="35" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
