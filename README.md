@@ -18,7 +18,7 @@
 <!-- DIRECIONADOS -->
 <div>
 	<b>
-		<h3>MINHAS REDES:</h3>
+		<h3>NETWORKS:</h3>
 	</b>
 	<a target="_blank" href="mailto:hiago.bernardo.contato@gmail.com">
 		<img target="_blank" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -31,7 +31,7 @@
 <!-- FERRAMENTAS APRENDIDAS -->
 <div>
 	<b>
-		<h3>FERRAMENTAS:</h3>
+		<h3>TOOLS:</h3>
 	</b>
 	<code><img alt="HTML" title="HTML" width="35" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
 	<code><img alt="CSS" title="CSS" width="35" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
